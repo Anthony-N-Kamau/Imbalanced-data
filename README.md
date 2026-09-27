@@ -80,7 +80,3 @@ pip install numpy pandas scikit-learn imbalanced-learn matplotlib sdv ctgan
 Open `imbalanced_data.ipynb` in Jupyter or Google Colab and run all cells
 top to bottom. The notebook was authored and exported from Google Colab,
 using `nbconvert` and `xelatex` to produce the accompanying PDF.
-
-## Author
-
-Anthony Kamau
